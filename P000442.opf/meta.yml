@@ -1,15 +1,16 @@
-id: opecha:P000442
+id: P000442
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14588
   title: མངོན་བརྗོད་ཀྱི་འགྲེལ་པ་མཐོང་བ་དོན་གསལ།
-  volume:
+  author: ''
+  volumes:
     eaddd3f2a0dd444ea5055599e25a7e69:
       image_group_id: I1KG21928
       title: Volume 1 of mngon brjod kyi 'grel pa mthong ba don gsal/
       volume_number: 1
       total_pages: 260
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མངོན་བརྗོད་ཀྱི་འགྲེལ་པ་མཐོང་བ་དོན་གསལ།
   author: ''
